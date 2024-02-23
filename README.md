@@ -1,13 +1,12 @@
-# Brief Introduction
+# Hi I'm Gonçalo
 
-Welcome to my GitHub profile! My name is Gonçalo and i'm currently taking a master's degree in Eletrical Engineering in Minho University in Portugal.
+I'm currently taking a master's degree in Eletrical Engineering in Minho University in Portugal.
 This is where I share my projects and contributions, related to electrical engineering and software development.
 
 ## About Me
 
-- 👨‍💻 I'm an Electrical Engineer specializing in Embedded Systems and in Control and Automation in UMinho.
--  
-- 🌐 Passionate about merging the worlds of electrical engineering and programming.  
+- 👨‍💻 I'm an Electrical Engineer specializing in Embedded Systems and Control and Automation in UMinho.
+- 🚀 Currently working on desining a simple **C Compiler** and making a project about the **Analysis of Containment Impact on Multi-Core Platforms for Critical Real-Time and Machine Learning Applications**.
 
 ## Github Stats: 
 
