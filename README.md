@@ -17,5 +17,4 @@ This is where I share my projects and contributions, related to electrical engin
 
 ## Connect with Me
 
-- 📫 Feel free to reach out: glm.goncalo.moreira@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-moreira-702164268/)
