@@ -6,7 +6,7 @@ This is where I share my projects and contributions, related to electrical engin
 ## About Me
 
 - 👨‍💻 I'm an Electrical Engineer specializing in Embedded Systems and Control and Automation in UMinho.
-- 🚀 Currently working on desining a simple **C Compiler** and making a project about the **Analysis of Containment Impact on Multi-Core Platforms for Critical Real-Time and Machine Learning Applications**.
+- 🚀 Currently working on desining a simple **C Compiler** and making a project about the **Analysis of Contention Impact on Multi-Core Platforms for Critical Real-Time and Machine Learning Applications**.
 
 ## Github Stats: 
 
