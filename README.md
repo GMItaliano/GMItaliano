@@ -5,7 +5,7 @@ Here you’ll find my personal and academic projects in electrical engineering, 
 
 ## 🔧 About Me
 
-- 🎓 MSc student in Electrical Engineering, specializing in Embedded Systems, Control, and Automation at UMinho  
+- 🎓 MSc student in Electrical Engineering, specializing in Embedded Systems, Control, Automation and Robotics at UMinho  
 - 📊 Working on a thesis focused on **Machine Learning Performance Prediction on Mixed Criticality Systems **
 
 ## 📈 GitHub Stats
